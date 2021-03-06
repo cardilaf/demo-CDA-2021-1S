@@ -1,6 +1,8 @@
 # Vagrant
 # vagrant up
 # vagrant ssh
+# vagrant halt
+# vagrant destroy
 # exit
 ./vagrant
 
