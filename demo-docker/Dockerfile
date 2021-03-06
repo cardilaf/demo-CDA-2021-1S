@@ -15,3 +15,4 @@ ENTRYPOINT bash
 # Build: docker build --tag=demo .
 # Run (Bandera para borrar en cuanto la máquina se apaga): docker run --rm -it demo
 # Exit (Salir del Contenedor): exit
+# Reemplazar FROM para utilizar contenedores ya creados desde la Web
